@@ -1,4 +1,15 @@
-mailing-app
-===========
+Send Email from ruby
+====================
 
-Welcoming users when they are created
+
+Here I made an email set-up using ActionMailer
+
+== Get repo
+ git clone git@github.com:rinoldsimon/mailing-app.git
+ cd mailing-app
+ rails s
+ 
+Visit localhost:3000 and create an user. Email will be generated and sent to that user mail-id
+
+== Note
+ Dont forget to set your gmail id and password in config/environments/development.rb configuration file
