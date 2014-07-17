@@ -11,4 +11,3 @@ Visit localhost:3000 and create an user. Email will be generated and sent to use
 
 == Note
  Dont forget to set your gmail id and password in config/environments/development.rb configuration file
->>>>>>> 14ab05a6638772ef16652aa87f8860fc87f00699
