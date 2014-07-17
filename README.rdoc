@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 == README
 
 This README would normally document whatever steps are necessary to get the
@@ -26,3 +27,18 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+=======
+== Send Email from ruby
+
+Here I made an email set-up using ActionMailer
+
+== Get repo
+ git clone git@github.com:rinoldsimon/mailing-app.git
+ cd mailing-app
+ rails s
+ 
+Visit localhost:3000 and create an user. Email will be generated and sent to user mail-id
+
+== Note
+ Dont forget to set your gmail id and password in config/environments/development.rb configuration file
+>>>>>>> 14ab05a6638772ef16652aa87f8860fc87f00699
