@@ -1,6 +1,4 @@
-Send Email from ruby
-====================
-
+== Send Email from ruby
 
 Here I made an email set-up using ActionMailer
 
